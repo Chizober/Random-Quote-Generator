@@ -1,8 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React, { useState} from "react";
 import Quotes from "./components/Quotes.js";
 import Colors from "./components/Colors.js";
 import QuoteBox from "./components/QuoteBox.js";
-import { CSSTransition, TransitionGroup } from "react-transition-group";
 import "./App.css";
 
 const App = ()=> {
