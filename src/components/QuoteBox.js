@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+
 import {FaQuoteLeft,FaQuoteRight} from "react-icons/fa";
 import Quotes from "./Quotes.js";
 import { CSSTransition, TransitionGroup } from "react-transition-group";
