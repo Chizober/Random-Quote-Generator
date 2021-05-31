@@ -1,5 +1,4 @@
 
-import react from "react"
  const Quotes=[
 {
 id:1,
