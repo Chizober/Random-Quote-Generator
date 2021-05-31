@@ -9,7 +9,7 @@ const App = ()=> {
 const quote = Quotes;
 const colors = Colors;
 const [activeQuote, setActiveQuote] = useState(0);
-const [activeColor, setActiveColor] = useState("#193c46");
+const [activeColor, setActiveColor] = useState("#773344");
 const generateRandomIndex=()=>{
 let randomQuote = Math.floor(Math.random()*(quote.length))
 setActiveQuote(randomQuote)
