@@ -1,4 +1,4 @@
-import react from "react";
+
 const Colors = [
   "#d72631",
   "#955251",
